@@ -1,0 +1,7 @@
+modem meta
+
+connect, plug in device
+get kernel port, device will light up and turn black (backlight will be on)
+once properly connected, device backlight will turn off
+
+after pressing disconnect, when it says "disconnected" unplug device
