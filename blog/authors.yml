@@ -1,25 +1,29 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
+charlie:
+  name: Charlie
+  title: Full-stack everything engineer
+  url: https://chardidath.ing
+  image_url: https://avatars.githubusercontent.com/u/183828231?v=4
   page: true
   socials:
-    x: yangshunz
-    linkedin: yangshun
+    x: chardidathing
+    linkedin: chardidathing
     github: yangshun
-    newsletter: https://www.greatfrontend.com
+    # newsletter: https://chardidath.ing
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+andre:
+  name: Andre
+  title: Operations Lead
+  image_url: https://pbs.twimg.com/profile_images/1801037516411424768/9b2A-_QP_400x400.jpg
+  page: true
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    x: youkhna
+    linkedin: andre-youkhna
+
+armen:
+  name: Armen
+  title: CEO
+  image_url: https://pbs.twimg.com/profile_images/913106302833799168/5M7ishwP_400x400.jpg
+  page: true
+  socials:
+    x: ussefian
+    linkedin: armen-y-211a282b

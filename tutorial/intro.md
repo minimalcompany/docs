@@ -2,13 +2,15 @@
 sidebar_position: 1
 ---
 
-# Introduction
+# Tutorial Intro
 
-Thank you for choosing Minimal!
+Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
 
-If you'd like some tips and tricks on getting your device setup how you'd like, feel free to check out our [Getting Started](getting-started) section!
+Get started by **creating a new site**.
+
+Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
 ### What you'll need
 
