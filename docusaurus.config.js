@@ -78,12 +78,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/social-card.jpg',
+      image: 'img/social-card.png',
       colorMode: {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'The Minimal Comapny',
+        title: 'The Minimal Company',
         logo: {
           alt: 'The Minimal Company Logo',
           src: 'img/logo.svg',
