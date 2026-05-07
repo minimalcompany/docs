@@ -12,7 +12,7 @@ Don't unplug the phone or close SP Flash Tool while a flash is in progress. Inte
 
 - A Windows PC with [drivers and SP Flash Tool installed](windows-setup)
 - A USB A-C cable (C-C can work, but if you experience issues please try a A-C cable)
-- A build extracted to a folder on your PC, containing a `flash.xml` inside its `download_agent` folder
+- A build extracted to a folder on your PC, containing a `flash.xml` inside its `download_agent` folder (factory images are linked from the [update posts on our blog](/blog/tags/update))
 - Your Minimal Phone, with at least some charge
 
 ---

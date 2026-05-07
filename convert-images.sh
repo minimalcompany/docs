@@ -19,7 +19,7 @@ fi
 find "$path" -type f \( -iname "*.jpg" -o -iname "*.jpeg" -o -iname "*.png" -o -iname "*.gif" \) | while read -r img; do
     output="${img%.*}.webp"
     echo "Converting: $img -> $output"
-    magick "$img" "$output"
+    magick "$img" -resize 50% "$output"
 done
 
 echo "Done!"
