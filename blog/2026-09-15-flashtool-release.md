@@ -17,6 +17,8 @@ Here you're able to update your device to the latest beta OTAs over WebUSB (supp
 
 This is the first time I've released something like this, so forgive me if there's any downtime or bugs in the installer, if you have any issues, reach out via the Discord or the link on the flashtool and I'll help you out!
 
+Check it out! -> https://flash.minimalcompany.dev
+
 As always, backup before you proceed, and enjoy!
 
 -Charlie
