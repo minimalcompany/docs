@@ -28,7 +28,7 @@ export default function Home() {
         <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap', justifyContent: 'center' }}>
           <Link
             className="button button--primary button--lg"
-            to="/docs/intro">
+            to="/docs/mp01/intro">
             Documentation
           </Link>
           <Link
