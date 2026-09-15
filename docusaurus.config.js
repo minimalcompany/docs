@@ -101,6 +101,11 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            href: 'https://flash.minimalcompany.dev',
+            label: 'Flash Tool',
+            position: 'right',
+          },
         ],
       },
       footer: {
